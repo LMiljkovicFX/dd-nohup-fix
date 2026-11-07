@@ -1,0 +1,2 @@
+v1.1 does the job with one major flaw
+It needs you to type all paths manually so naturally next step to improve it is to find a way to integrate shell functionality with it
